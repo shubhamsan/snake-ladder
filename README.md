@@ -1,4 +1,4 @@
-# snake-ladder
+# snake and ladder
 A game of Snake and Ladder.
 
 ##Features
